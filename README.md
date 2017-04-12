@@ -18,5 +18,5 @@ _This is written in italic._
 ## use of bold and italic
 **_This is written in bold and italic_**
 ## Quoting text
-Is this a quote
+Is this a quote :
 > Yes this is a quote.
