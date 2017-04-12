@@ -6,3 +6,5 @@ this is the largest heading
 this is the second largest heading
 ###### use upto six
 six different sizes can be used
+## use of bold
+** This is written in bold text. **
