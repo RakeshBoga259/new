@@ -15,4 +15,5 @@ _This is written in italic._
 ~~This text is marked for striking off.~~
 ## use of strikethrough in bold and italic
 ~~This text is marked for strike off in **bold** and *italic*~~
-
+## use of bold and italic
+**_This is written in bold and italic_**
