@@ -17,3 +17,5 @@ _This is written in italic._
 ~~This text is marked for strike off in **bold** and *italic*~~
 ## use of bold and italic
 **_This is written in bold and italic_**
+## Quoting text
+> This is a quote.
