@@ -20,3 +20,5 @@ _This is written in italic._
 ## Quoting text
 Is this a quote :
 > Yes this is a quote.
+## use of links
+Regarding any queries refer [GitHub](https://www.github.com)
