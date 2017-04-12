@@ -8,3 +8,6 @@ this is the second largest heading
 six different sizes can be used
 ## use of bold
 **This is written in bold text.**
+## use of italic
+_This is written in italic.
+
