@@ -7,4 +7,4 @@ this is the second largest heading
 ###### use upto six
 six different sizes can be used
 ## use of bold
-** This is written in bold text. **
+**This is written in bold text.**
