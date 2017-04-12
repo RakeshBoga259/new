@@ -9,5 +9,9 @@ six different sizes can be used
 ## use of bold
 **This is written in bold text.**
 ## use of italic
-_This is written in italic.*
+_This is written in italic._
+*This is also italic.*
+## use of strikethrough
+~~This text is marked for striking off.~~
+
 
