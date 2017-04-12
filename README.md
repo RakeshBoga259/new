@@ -22,5 +22,5 @@ Is this a quote :
 > Yes this is a quote.
 ## use of links
 Regarding any queries refer [GitHub](https://www.github.com)
-
 Regarding w3 schools refer to [W3Schools](https://www.w3schools.com)
+
